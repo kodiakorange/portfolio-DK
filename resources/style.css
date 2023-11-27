@@ -42,6 +42,7 @@ a:hover {
 	margin: 0;
 	padding: 10%;
 	min-height: 100vh;
+	min-width: 100vw;
 	background-color: grey;
 	background-size: 100%;
 }
