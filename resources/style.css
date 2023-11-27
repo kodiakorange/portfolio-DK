@@ -33,8 +33,9 @@ a:hover {
 }
 
 .site-hero-wrapper {
+	margin: 0;
 	padding: 10%;
-	max-height: 100vh;
+	height: 100%;
 	max-width: 1400px;
 	background-color: grey;
 	background-size: 100%;
