@@ -5,8 +5,14 @@ h1 {
 	margin: 0;
 }
 
+body {
+	padding: 0;
+	margin: 0;
+}
+
 * {
 	font-family: "DM Mono";
+	box-sizing: border-box;
 }
 
 h2 {
@@ -35,8 +41,7 @@ a:hover {
 .site-hero-wrapper {
 	margin: 0;
 	padding: 10%;
-	height: 100%;
-	max-width: 1400px;
+	min-height: 100vh;
 	background-color: grey;
 	background-size: 100%;
 }
