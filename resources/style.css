@@ -9,7 +9,7 @@ h3 {
 	font-weight: normal;
 }
 
-body > h1 {
+body>h1 {
 	font-weight: 300;
 	font-size: 3rem;
 	padding: 0;
@@ -79,4 +79,9 @@ span {
 	justify-content: space-between;
 	margin-top: 3rem;
 	align-items: baseline;
+}
+
+
+.projectLink {
+	padding: 1rem 0;
 }
