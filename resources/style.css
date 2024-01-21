@@ -59,10 +59,11 @@ a:hover {
 	padding: 10%;
 	min-height: 100vh;
 	min-width: 100vw;
-	max-width: 900px;
 	background-color: grey;
 	background-size: 100%;
 }
+
+
 
 span {
 	color: lightgrey;
